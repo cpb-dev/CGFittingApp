@@ -1,0 +1,16 @@
+<resources>
+    <!-- Strings for base application -->
+    <string name="app_name">Complete Golfer Fitting App</string>
+
+    <!-- Strings for adding a fitting -->
+    <string name="frmName">Customer Name</string>
+    <string name="frmEmail">Email</string>
+    <string name="frmNumber">Phone Number</string>
+    <string name="frmDate">Fitting Date</string>
+    <string name="frmTime">Fitting Time</string>
+    <string name="frmPro">Fitting With</string>
+
+    <!-- Strings for buttons -->
+    <string name="btnSave">Save Fitting</string>
+
+</resources>
